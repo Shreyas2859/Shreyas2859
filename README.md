@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shreyas
 - 👀 I’m interested in coding
-- 🌱 I’m currently practising to developed coding skills
+- 🌱 I’m currently practising to develop my coding skills
 - ✨ I know Python, PJS, HTML&CSS
 
 <!---
